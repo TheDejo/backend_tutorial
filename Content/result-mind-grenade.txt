@@ -1,0 +1,2 @@
+THIS IS AWESOME : Hello from first text
+ Hello from second text.
